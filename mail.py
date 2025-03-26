@@ -1,9 +1,9 @@
 import smtplib
 
-sendermail = 'mohitgupta42284228@gmail.com'
-senderpassword= 'ptffmuodxkpiwirg'
-receviermail ='sagar.shakya561@gmail.com'
-subject = "namaste"
+sendermail = 'xxxxxx@gmail.com'
+senderpassword= 'xxxxxxx'
+receviermail ='x.xx@gmail.com'
+subject = "xxxx"
 
 s= smtplib.SMTP("smtp.gmail.com" ,587)
 s.starttls()
